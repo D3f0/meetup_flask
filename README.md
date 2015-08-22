@@ -24,9 +24,11 @@ pip install Flask
 python runserver.py
 ```
 
-# Documentación offline
-
 Luego abrir el navegador en http://127.0.0.1:5000/
+
+# Vistas (o páginas)
+
+Ejemplo en https://github.com/D3f0/meetup_flask/blob/master/runserver.py#L8-L14
 
 # Templates
 
