@@ -1,5 +1,7 @@
 # Ejemplo de intoducción a Flask
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/D3f0/meetup_flask?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ![Logo Flask](http://flask.pocoo.org/docs/0.10/_images/logo-full.png)
 
 
