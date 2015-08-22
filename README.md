@@ -24,6 +24,8 @@ pip install Flask
 python runserver.py
 ```
 
+# Documentación offline
+
 Luego abrir el navegador en http://127.0.0.1:5000/
 
 # Templates
@@ -44,3 +46,7 @@ La documentación de Flask se encuentra en http://flask.pocoo.org/docs/0.10/
 
 Con [Zeal](http://zealdocs.org/) para Windows y Linu (Dash en OSX) pueden descargarse la documentación offline Python, Flask, CSS, HTML, etc.
 
+Desde el menú Opciones, en Docsets se deben descargar primero las documentaciones que nos interesen. Ver capturas de pantalla más abajo.
+
+![Imagen](./doc/zeal1.png)
+![Imagen](./doc/zeal2.png)
