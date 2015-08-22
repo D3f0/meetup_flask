@@ -40,3 +40,7 @@ Se ubica en [`static`](./static/)
 
 La documentación de Flask se encuentra en http://flask.pocoo.org/docs/0.10/
 
+# Documentación formato Online
+
+Con [Zeal](http://zealdocs.org/) para Windows y Linu (Dash en OSX) pueden descargarse la documentación offline Python, Flask, CSS, HTML, etc.
+
